@@ -1,0 +1,1 @@
+alter table enrol add final char default 'f';

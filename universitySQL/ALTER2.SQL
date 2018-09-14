@@ -1,0 +1,1 @@
+alter table enrol drop grade cascade;
